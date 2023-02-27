@@ -1,5 +1,6 @@
 # NetICS: Network-based integration of multi-omics data for prioritizing cancer genes
 
+[Original Gihub paper](https://github.com/cbg-ethz/netics)
 NetICS performs a per sample bidirectional network diffusion technique to prioritize genes based on their proximity to genetically aberrant and differentially expressed genes. It provides rank aggregation techniques for integrating the sample-specific gene lists into an overall ranked list of genes.
 
 The method is called as follows:
